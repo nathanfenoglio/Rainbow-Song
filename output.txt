@@ -1,0 +1,2 @@
+It seems that you entered a string, but not an int to follow.
+flam nathan flim 666
